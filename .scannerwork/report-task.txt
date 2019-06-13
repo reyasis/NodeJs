@@ -1,0 +1,7 @@
+organization=reyasis-github
+projectKey=reyasis_NodeJs
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.25899
+dashboardUrl=https://sonarcloud.io/dashboard?id=reyasis_NodeJs
+ceTaskId=AWtQFTf5Of9IOOAG_xY9
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWtQFTf5Of9IOOAG_xY9
