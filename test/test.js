@@ -1,5 +1,6 @@
 var request = require("request"),
     assert = require('assert'),
+    foo = "ssss",
     helloWorld = require("../index.js"),
     base_url = "http://localhost:3000/";
 
