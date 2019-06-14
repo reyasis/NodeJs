@@ -7,7 +7,6 @@ var express = require('express');
 var app = express();
 var exports = module.exports = {};
 var foo = "sss";
-var foo = "sss";
 app.get('/', function(req, res){
   res.send('Hello World');
 });
